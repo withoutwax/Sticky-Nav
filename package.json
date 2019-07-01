@@ -1,0 +1,11 @@
+{
+  "name": "sticky-nav",
+  "version": "1.0.0",
+  "description": "A library that helps to create a sticky navigation bar",
+  "main": "./lib/StickyNav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Kim <rlagmlckd@gmail.com> (https://withoutwax.me)",
+  "license": "MIT"
+}
