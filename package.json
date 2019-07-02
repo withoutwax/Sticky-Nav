@@ -1,6 +1,6 @@
 {
   "name": "@withoutwax/sticky-nav",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A library that helps to create a sticky navigation bar",
   "main": "./lib/StickyNav.js",
   "scripts": {
